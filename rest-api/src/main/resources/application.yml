@@ -1,0 +1,4 @@
+account:
+  uri: http://localhost:9090/account
+  
+server:  port: 8080
